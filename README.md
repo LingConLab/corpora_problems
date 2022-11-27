@@ -1,1 +1,1 @@
-This is a repository, where we will store Lab's corpora technickal problems. 
+This is a repository, where we will store Lab's corpora technical problems. 
